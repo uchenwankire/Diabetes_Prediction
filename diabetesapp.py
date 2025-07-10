@@ -22,7 +22,7 @@ blood_glucose_level = st.number_input("Blood Glucose Level", min_value=0)
 
 # Categorical inputs
 gender = st.selectbox("Gender", list(gender.keys()))
-smoking_history = st.selectbox("Smoking History", list(employment_map.keys()))
+smoking_history = st.selectbox("Smoking History", list(smoking_history.keys()))
 
 # Encode values
 input_data = pd.DataFrame([{
