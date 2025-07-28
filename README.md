@@ -35,5 +35,8 @@ Checked for missing data and found non, removed duplicate data, standardized dat
 After training the model with various algorithms which include: Logistic Regression, SGDClassifier,	K-Nearest Neighbors, 
 Decision Tree, Random Forest, AdaBoost, and XGBoost, it was observed that XGBoost is the best performing Model.
 Hence, XGBoost was selected for the Diabetes Prediction Model
+<img width="800" height="664" alt="diabetesappinterface" src="https://github.com/user-attachments/assets/98f3b42c-35fa-4454-ac29-aba983d66634" />
+
+
 
 
